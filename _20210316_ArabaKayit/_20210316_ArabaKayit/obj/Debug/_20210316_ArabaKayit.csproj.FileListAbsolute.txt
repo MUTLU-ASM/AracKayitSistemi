@@ -1,0 +1,10 @@
+C:\Users\erdi\source\repos\_20210316_ArabaKayit\_20210316_ArabaKayit\obj\Debug\_20210316_ArabaKayit.csprojAssemblyReference.cache
+C:\Users\erdi\source\repos\_20210316_ArabaKayit\_20210316_ArabaKayit\obj\Debug\_20210316_ArabaKayit.frmAracKayit.resources
+C:\Users\erdi\source\repos\_20210316_ArabaKayit\_20210316_ArabaKayit\obj\Debug\_20210316_ArabaKayit.Properties.Resources.resources
+C:\Users\erdi\source\repos\_20210316_ArabaKayit\_20210316_ArabaKayit\obj\Debug\_20210316_ArabaKayit.csproj.GenerateResource.cache
+C:\Users\erdi\source\repos\_20210316_ArabaKayit\_20210316_ArabaKayit\obj\Debug\_20210316_ArabaKayit.csproj.CoreCompileInputs.cache
+C:\Users\erdi\source\repos\_20210316_ArabaKayit\_20210316_ArabaKayit\bin\Debug\_20210316_ArabaKayit.exe.config
+C:\Users\erdi\source\repos\_20210316_ArabaKayit\_20210316_ArabaKayit\bin\Debug\_20210316_ArabaKayit.exe
+C:\Users\erdi\source\repos\_20210316_ArabaKayit\_20210316_ArabaKayit\bin\Debug\_20210316_ArabaKayit.pdb
+C:\Users\erdi\source\repos\_20210316_ArabaKayit\_20210316_ArabaKayit\obj\Debug\_20210316_ArabaKayit.exe
+C:\Users\erdi\source\repos\_20210316_ArabaKayit\_20210316_ArabaKayit\obj\Debug\_20210316_ArabaKayit.pdb
